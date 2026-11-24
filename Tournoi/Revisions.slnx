@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Mediatheque/Mediatheque.vcxproj" Id="b5ecfa71-c097-4c6b-8167-b61df5077579" />
+  <Project Path="Tournoi.vcxproj" Id="e709c929-9478-414b-bf4a-847eacf7dd66" />
+</Solution>
